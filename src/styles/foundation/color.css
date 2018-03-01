@@ -1,0 +1,19 @@
+:root {
+  --color-lime-light: #f4ff81;
+  --color-lime      : #4caf50;
+  --color-lime-dark : #1b5e20;
+}
+
+body {
+  color: var(--color-lime-dark);
+  background-color: var(--color-lime-light);
+}
+
+a {
+  color: var(--color-lime-dark);
+}
+
+::selection {
+  color: var(--color-lime-light);
+  background-color: var(--color-lime);
+}

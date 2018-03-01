@@ -1,0 +1,16 @@
+{
+  "site": {
+    "title": "poem.shikakun.com",
+    "description": "越谷市科学技術体験センター ミラクル友の会 会員",
+    "ogImage": "https://poem.shikakun.com/og-image.jpg",
+    "rootUrl": "https://poem.shikakun.com",
+    "fbAppId": "1612358929094852",
+    "twitterScreenName": "shikakun",
+    "googleAnalyticsId": "UA-20528252-19"
+  },
+  "dir": {
+    "dist": "public",
+    "src": "src",
+    "nodeModules": "node_modules"
+  }
+}
